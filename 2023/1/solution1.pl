@@ -2,7 +2,7 @@
 use warnings;
 use strict;
 
-open (my $input, '<', 'input.txt') or die $!;
+open (my $input, '<', 'input1.txt') or die $!;
 
 my $result;
 
