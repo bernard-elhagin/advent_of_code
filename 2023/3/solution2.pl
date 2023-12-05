@@ -4,7 +4,7 @@ use strict;
 
 use Data::Dumper;
 
-open (my $input, '<', 'input.txt') or die $!;
+open (my $input, '<', 'test.txt') or die $!;
 
 my $result = 0;
 
